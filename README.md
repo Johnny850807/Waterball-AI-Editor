@@ -9,7 +9,7 @@ To download the full app, visit our homepage at https://tryblueberry.ai.
 * **UI/UX focused** - blueberry puts the user experience first, making developing as seamless as possible.
 * **Familiar feel** - blueberry is a fork of VSCode, so you can pick up exactly where you left off.
 
-See all features [here](https://tryblueberry.ai/docs).
+See all features [here](https://waterballsa.tw/design-pattern).
 
 ## Master Doc
 
